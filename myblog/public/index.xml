@@ -29,5 +29,12 @@
       <guid>https://tomashtom.github.io/Smolskij.github.io/posts/pirmas-irasas/</guid>
       <description>&lt;p&gt;Šis puslapis buvo sukurtas naudojant &lt;code&gt;hugo new&lt;/code&gt; komandą.&lt;br&gt;&#xA;Tai yra pirmas mano įrašas Hugo svetainėje!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;kiti-įrašai&#34;&gt;Kiti įrašai:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;👉 &lt;a href=&#34;https://tomashtom.github.io/Smolskij.github.io/posts/antras-puslapis/&#34;&gt;Antras įrašas&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;👉 &lt;a href=&#34;https://tomashtom.github.io/Smolskij.github.io/posts/trecias-irasas/&#34;&gt;Trečias įrašas&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
+    <item>
+      <title>Apie</title>
+      <link>https://tomashtom.github.io/Smolskij.github.io/apie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tomashtom.github.io/Smolskij.github.io/apie/</guid>
+      <description>&lt;p&gt;Sveiki! Čia – Apie puslapis.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
