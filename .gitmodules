@@ -1,0 +1,16 @@
+[submodule "myblog/themes/hello-friend"]
+	path = myblog/themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "myblog/themes/cactus"]
+	path = myblog/themes/cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
+[submodule "myblog/themes/ananke"]
+	path = myblog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "myblog/themes/hyde"]
+	path = myblog/themes/hyde
+	url = https://github.com/spf13/hyde.git
+[submodule "myblog/public"]
+	path = myblog/public
+	url = https://github.com/TomashTom/Smolskij.github.io.git
+	branch = main

@@ -1,0 +1,21 @@
+baseURL = 'https://tomashtom.github.io/Smolskij.github.io/'
+languageCode = 'en-us'
+title = 'Mano puslapis'
+theme = 'hyde'
+
+
+[menu]
+  [[menu.main]]
+    name = "Pradžia"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Apie"
+    url = "/apie/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Įrašai"
+    url = "/posts/"
+    weight = 3
