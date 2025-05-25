@@ -3,19 +3,22 @@ languageCode = 'en-us'
 title = 'Mano puslapis'
 theme = 'hyde'
 
+[[menu.main]]
+name = "Pradžia"
+url = "/"
+weight = 1
 
-[menu]
-  [[menu.main]]
-    name = "Pradžia"
-    url = "/"
-    weight = 1
+[[menu.main]]
+name = "Įrašai"
+url = "/posts/"
+weight = 2
 
-  [[menu.main]]
-    name = "Apie"
-    url = "/apie/"
-    weight = 2
+[[menu.main]]
+name = "Kontaktai"
+url = "/kontaktai/"
+weight = 3
 
-  [[menu.main]]
-    name = "Įrašai"
-    url = "/posts/"
-    weight = 3
+[[menu.main]]
+name = "Apie"
+url = "/apie/"
+weight = 4
